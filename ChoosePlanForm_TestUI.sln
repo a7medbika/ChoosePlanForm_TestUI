@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChoosePlanForm_TestUIWPF", "ChoosePlanForm_TestUI\ChoosePlanForm_TestUIWPF.csproj", "{CA529D0D-A439-4A90-8CEF-D307B6840BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA529D0D-A439-4A90-8CEF-D307B6840BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA529D0D-A439-4A90-8CEF-D307B6840BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA529D0D-A439-4A90-8CEF-D307B6840BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA529D0D-A439-4A90-8CEF-D307B6840BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD09F85C-8100-4394-BF55-22662842139B}
+	EndGlobalSection
+EndGlobal
